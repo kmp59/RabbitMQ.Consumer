@@ -1,0 +1,4 @@
+"Hello, World!"
+"How was your day?"
+"What did you do today?"
+"Were you able to accomplish your goals for today?"
